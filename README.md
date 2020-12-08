@@ -19,3 +19,4 @@ A collection of presentations during my PhD 🙈
 ### 2020
 1. Informal meeting @ ELTE, Hungary
 2. Progress Workshop @ CEU
+3. Social Cognition @ BME, Hungary (online)
