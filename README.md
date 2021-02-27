@@ -10,7 +10,7 @@ A collection of presentations during my PhD 🙈
 
 ### 2019
 1. JAM8 @ Genoa, Italy
-2. SysMus @ Berlin, Germany
+2. SysMus19 @ Berlin, Germany
 3. Informal meeting @ Nagoya, Japan
 4. Informal meeting @ Kyoto, Japan
 5. Progress Workshop @ CEU
@@ -20,3 +20,6 @@ A collection of presentations during my PhD 🙈
 1. Informal meeting @ ELTE, Hungary
 2. Progress Workshop @ CEU
 3. Social Cognition @ BME, Hungary (online)
+
+### 2021
+1. STYP11th @ Japan (online)
