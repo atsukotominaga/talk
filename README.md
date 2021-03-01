@@ -1,5 +1,11 @@
 # Talk 
+
+<p align="center">
+  <img width="1024" height="300" src="https://media.giphy.com/media/xT5LMB2WiOdjpB7K4o/giphy.gif">
+</p>
+
 A collection of presentations during my PhD 🙈
+
 
 ## List
 ### 2018
