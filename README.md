@@ -19,8 +19,10 @@ A collection of presentations during my PhD 🙈
 
 ### 2020
 1. Work in Progress Symposium @ ELTE, Hungary
-2. Progress Workshop @ CEU
+2. Progress Workshop @ CEU (online)
 3. Social Cognition @ BME, Hungary (online)
 
 ### 2021
 1. STYP11th @ Japan (online)
+2. Neuromusic VII Aarhus, Denmark (online)
+3. Progress Workshop @ CEU (online)
