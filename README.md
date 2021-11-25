@@ -26,3 +26,4 @@ A collection of presentations during my PhD 🙈
 1. STYP11th @ Japan (online)
 2. Neuromusic VII Aarhus, Denmark (online)
 3. Progress Workshop @ CEU (online)
+4. SysMus21 @ Aarhus, Denmark (online)
