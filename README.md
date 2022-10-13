@@ -1,7 +1,6 @@
 # Talk 
 A collection of presentations during my PhD 🙈
 
-
 ## List
 ### 2018
 1. Comprehesive exam @ CEU
@@ -24,6 +23,10 @@ A collection of presentations during my PhD 🙈
 
 ### 2021
 1. STYP11th @ Japan (online)
-2. Neuromusic VII Aarhus, Denmark (online)
+2. Neuromusic VII @ Aarhus, Denmark (online)
 3. Progress Workshop @ CEU (online)
 4. SysMus21 @ Aarhus, Denmark (online)
+
+### 2022
+1. Musical Togetherness @ Vienna, Austria
+2. Psychology & Music @ Belgrade, Serbia
