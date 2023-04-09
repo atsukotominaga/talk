@@ -30,3 +30,6 @@ A collection of presentations during my PhD 🙈
 ### 2022
 1. Musical Togetherness @ Vienna, Austria
 2. Psychology & Music @ Belgrade, Serbia
+
+### 2023
+1. TeaP 65th @ Trier, Germany
