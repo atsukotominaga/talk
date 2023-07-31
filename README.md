@@ -33,3 +33,4 @@ A collection of presentations during my PhD 🙈
 
 ### 2023
 1. TeaP 65th @ Trier, Germany
+2. PhD Defense @ Vienna, Austria
